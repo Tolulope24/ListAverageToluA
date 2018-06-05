@@ -1,0 +1,9 @@
+c:\users\s448789\documents\visual studio 2017\Projects\ListAverageToluA\ListAverageToluA\bin\Debug\ListAverageToluA.exe.config
+c:\users\s448789\documents\visual studio 2017\Projects\ListAverageToluA\ListAverageToluA\bin\Debug\ListAverageToluA.exe
+c:\users\s448789\documents\visual studio 2017\Projects\ListAverageToluA\ListAverageToluA\bin\Debug\ListAverageToluA.pdb
+c:\users\s448789\documents\visual studio 2017\Projects\ListAverageToluA\ListAverageToluA\obj\Debug\ListAverageToluA.csprojResolveAssemblyReference.cache
+c:\users\s448789\documents\visual studio 2017\Projects\ListAverageToluA\ListAverageToluA\obj\Debug\ListAverageToluA.ListAverageForm.resources
+c:\users\s448789\documents\visual studio 2017\Projects\ListAverageToluA\ListAverageToluA\obj\Debug\ListAverageToluA.Properties.Resources.resources
+c:\users\s448789\documents\visual studio 2017\Projects\ListAverageToluA\ListAverageToluA\obj\Debug\ListAverageToluA.csproj.GenerateResource.Cache
+c:\users\s448789\documents\visual studio 2017\Projects\ListAverageToluA\ListAverageToluA\obj\Debug\ListAverageToluA.exe
+c:\users\s448789\documents\visual studio 2017\Projects\ListAverageToluA\ListAverageToluA\obj\Debug\ListAverageToluA.pdb
