@@ -32,7 +32,8 @@
             this.txtNumber = new System.Windows.Forms.TextBox();
             this.lblInstruction = new System.Windows.Forms.Label();
             this.lblAnswer = new System.Windows.Forms.Label();
-            this.listBox1 = new System.Windows.Forms.ListBox();
+            this.lstNumbers = new System.Windows.Forms.ListBox();
+            this.btnAverage = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // btnCheck
@@ -64,31 +65,42 @@
             // lblAnswer
             // 
             this.lblAnswer.AutoSize = true;
-            this.lblAnswer.Location = new System.Drawing.Point(12, 312);
+            this.lblAnswer.Location = new System.Drawing.Point(12, 354);
             this.lblAnswer.Name = "lblAnswer";
             this.lblAnswer.Size = new System.Drawing.Size(52, 13);
             this.lblAnswer.TabIndex = 4;
             this.lblAnswer.Text = "lblAnswer";
             // 
-            // listBox1
+            // lstNumbers
             // 
-            this.listBox1.FormattingEnabled = true;
-            this.listBox1.Location = new System.Drawing.Point(15, 87);
-            this.listBox1.Name = "listBox1";
-            this.listBox1.Size = new System.Drawing.Size(191, 212);
-            this.listBox1.TabIndex = 5;
+            this.lstNumbers.FormattingEnabled = true;
+            this.lstNumbers.Location = new System.Drawing.Point(15, 87);
+            this.lstNumbers.Name = "lstNumbers";
+            this.lstNumbers.Size = new System.Drawing.Size(191, 212);
+            this.lstNumbers.TabIndex = 5;
             // 
-            // Form1
+            // btnAverage
+            // 
+            this.btnAverage.Location = new System.Drawing.Point(35, 305);
+            this.btnAverage.Name = "btnAverage";
+            this.btnAverage.Size = new System.Drawing.Size(149, 23);
+            this.btnAverage.TabIndex = 6;
+            this.btnAverage.Text = "Calculate Average";
+            this.btnAverage.UseVisualStyleBackColor = true;
+            this.btnAverage.Click += new System.EventHandler(this.btnAverage_Click);
+            // 
+            // ListAverageForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(219, 339);
-            this.Controls.Add(this.listBox1);
+            this.ClientSize = new System.Drawing.Size(219, 382);
+            this.Controls.Add(this.btnAverage);
+            this.Controls.Add(this.lstNumbers);
             this.Controls.Add(this.lblAnswer);
             this.Controls.Add(this.lblInstruction);
             this.Controls.Add(this.txtNumber);
             this.Controls.Add(this.btnCheck);
-            this.Name = "Form1";
+            this.Name = "ListAverageForm";
             this.Text = "Form1";
             this.ResumeLayout(false);
             this.PerformLayout();
@@ -101,7 +113,8 @@
         private System.Windows.Forms.TextBox txtNumber;
         private System.Windows.Forms.Label lblInstruction;
         private System.Windows.Forms.Label lblAnswer;
-        private System.Windows.Forms.ListBox listBox1;
+        private System.Windows.Forms.ListBox lstNumbers;
+        private System.Windows.Forms.Button btnAverage;
     }
 }
 

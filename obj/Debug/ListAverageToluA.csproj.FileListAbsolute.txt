@@ -7,3 +7,12 @@ c:\users\s448789\documents\visual studio 2017\Projects\ListAverageToluA\ListAver
 c:\users\s448789\documents\visual studio 2017\Projects\ListAverageToluA\ListAverageToluA\obj\Debug\ListAverageToluA.csproj.GenerateResource.Cache
 c:\users\s448789\documents\visual studio 2017\Projects\ListAverageToluA\ListAverageToluA\obj\Debug\ListAverageToluA.exe
 c:\users\s448789\documents\visual studio 2017\Projects\ListAverageToluA\ListAverageToluA\obj\Debug\ListAverageToluA.pdb
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Adebayo, Tolulope (s448789)\Unit 5 (Arrays & Lists)\ListAverageToluA\ListAverageToluA\bin\Debug\ListAverageToluA.exe.config
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Adebayo, Tolulope (s448789)\Unit 5 (Arrays & Lists)\ListAverageToluA\ListAverageToluA\bin\Debug\ListAverageToluA.exe
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Adebayo, Tolulope (s448789)\Unit 5 (Arrays & Lists)\ListAverageToluA\ListAverageToluA\bin\Debug\ListAverageToluA.pdb
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Adebayo, Tolulope (s448789)\Unit 5 (Arrays & Lists)\ListAverageToluA\ListAverageToluA\obj\Debug\ListAverageToluA.csprojResolveAssemblyReference.cache
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Adebayo, Tolulope (s448789)\Unit 5 (Arrays & Lists)\ListAverageToluA\ListAverageToluA\obj\Debug\ListAverageToluA.ListAverageForm.resources
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Adebayo, Tolulope (s448789)\Unit 5 (Arrays & Lists)\ListAverageToluA\ListAverageToluA\obj\Debug\ListAverageToluA.Properties.Resources.resources
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Adebayo, Tolulope (s448789)\Unit 5 (Arrays & Lists)\ListAverageToluA\ListAverageToluA\obj\Debug\ListAverageToluA.csproj.GenerateResource.Cache
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Adebayo, Tolulope (s448789)\Unit 5 (Arrays & Lists)\ListAverageToluA\ListAverageToluA\obj\Debug\ListAverageToluA.exe
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Adebayo, Tolulope (s448789)\Unit 5 (Arrays & Lists)\ListAverageToluA\ListAverageToluA\obj\Debug\ListAverageToluA.pdb
