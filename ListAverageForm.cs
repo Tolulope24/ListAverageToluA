@@ -17,12 +17,12 @@ namespace ListAverageToluA
             InitializeComponent();
         }
 
-        /*
- * Created by: First Last
- * Created on: Day-Month-Year
+ /*
+ * Created by: Tolu Adebayo
+ * Created on: 05-06-2018
  * Created for: ICS3U Programming
- * Daily Assignment – Day #37 - Find Max Value
- * This program...
+ * Daily Assignment – Day #39 - List Average
+ * This program caluclates the average of the numbers added to a list
 */
         // Create Empty List
         List<int> myListOfIntegers = new List<int>();
@@ -58,6 +58,19 @@ namespace ListAverageToluA
 
         private void btnAverage_Click(object sender, EventArgs e)
         {
+            double average = 0;
+            double sum = 0;
+
+            // create a for loop starting from 0 until list Count, adding the contents each time
+            for (int counter = 0; counter < myListOfIntegers.Count; counter++)
+            {
+                sum = sum + myListOfIntegers[counter];
+            }
+
+            // Calculate the average of the value in the array 
+            average = sum / myListOfIntegers.Count;
+            // Display Average 
+            this.lblAnswer.Text = "The Average is : " + average;
 
         }
     }

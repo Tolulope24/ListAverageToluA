@@ -67,9 +67,8 @@
             this.lblAnswer.AutoSize = true;
             this.lblAnswer.Location = new System.Drawing.Point(12, 354);
             this.lblAnswer.Name = "lblAnswer";
-            this.lblAnswer.Size = new System.Drawing.Size(52, 13);
+            this.lblAnswer.Size = new System.Drawing.Size(0, 13);
             this.lblAnswer.TabIndex = 4;
-            this.lblAnswer.Text = "lblAnswer";
             // 
             // lstNumbers
             // 
@@ -93,7 +92,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(219, 382);
+            this.ClientSize = new System.Drawing.Size(219, 391);
             this.Controls.Add(this.btnAverage);
             this.Controls.Add(this.lstNumbers);
             this.Controls.Add(this.lblAnswer);
@@ -101,7 +100,7 @@
             this.Controls.Add(this.txtNumber);
             this.Controls.Add(this.btnCheck);
             this.Name = "ListAverageForm";
-            this.Text = "Form1";
+            this.Text = "ListAverage";
             this.ResumeLayout(false);
             this.PerformLayout();
 
